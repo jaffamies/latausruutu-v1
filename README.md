@@ -1,4 +1,4 @@
-Discord : https://discord.io/jaffascripting
+Discord : https://discord.io/suomiscripting
 
 Perus loadingscreen
 
