@@ -1,5 +1,5 @@
-Tavallinen loading screen.
+Discord : https://discord.gg/QW4TDJP
 
-Useamman kuvan "diaesitys" johon voit itse määrittää kuvat ja lisätä.
+![fivem](https://i.imgur.com/W7akDTH.png)
 
-![fivem](https://i.imgur.com/VqZ4dSc.png)
+Vidéo : https://youtu.be/UHzfTE1qB5M
