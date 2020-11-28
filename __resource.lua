@@ -2,15 +2,10 @@ files {
     'index.html',
     'style.css',
     'js/script.js',
-    'img/logo.png',
     'img/bg1.png',
     'img/bg2.png',
     'img/bg3.png',
     'img/bg4.png',
-    'img/icons/discord.png',
-    'img/icons/gamemode.png',
-    'img/icons/user.png',
-    'img/icons/www.png',
     'music/lataus.mp3'
 }
 
